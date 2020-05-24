@@ -1,0 +1,12 @@
+/config
+/sgraph/__pycache__
+/sgraph/entity/__pycache__
+/sgraph/proto/__pycache__
+/sgraph/proto/caffe/__pycache__
+/sgraph/proto/tf_pb2/__pycache__
+/sgraph/translator/__pycache__
+/sgraph/utils/__pycache__
+/sgraph/test/__pycache__
+sgraph/test/addressbook_pb2.py
+sgraph/test/btree.gv
+sgraph/test/btree.jpg
